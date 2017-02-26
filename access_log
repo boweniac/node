@@ -10,3 +10,17 @@
 127.0.0.1 - - [26/Feb/2017:09:57:48 +0800] "GET /system/config/globalvariable.js HTTP/1.1" 304 -
 127.0.0.1 - - [26/Feb/2017:09:57:48 +0800] "GET /system/action/status.js HTTP/1.1" 304 -
 127.0.0.1 - - [26/Feb/2017:09:57:48 +0800] "GET /system/action/keytodo.js HTTP/1.1" 304 -
+127.0.0.1 - - [26/Feb/2017:18:29:42 +0800] "GET / HTTP/1.1" 200 801
+127.0.0.1 - - [26/Feb/2017:18:29:42 +0800] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 230
+127.0.0.1 - - [26/Feb/2017:18:29:42 +0800] "GET /apple-touch-icon.png HTTP/1.1" 404 218
+127.0.0.1 - - [26/Feb/2017:18:29:42 +0800] "GET /favicon.ico HTTP/1.1" 404 209
+127.0.0.1 - - [26/Feb/2017:18:29:42 +0800] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 230
+127.0.0.1 - - [26/Feb/2017:18:29:42 +0800] "GET /apple-touch-icon.png HTTP/1.1" 404 218
+127.0.0.1 - - [26/Feb/2017:18:29:42 +0800] "GET /favicon.ico HTTP/1.1" 404 209
+127.0.0.1 - - [26/Feb/2017:18:29:43 +0800] "GET / HTTP/1.1" 200 801
+127.0.0.1 - - [26/Feb/2017:18:29:43 +0800] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 230
+127.0.0.1 - - [26/Feb/2017:18:29:43 +0800] "GET /apple-touch-icon.png HTTP/1.1" 404 218
+127.0.0.1 - - [26/Feb/2017:18:29:43 +0800] "GET /favicon.ico HTTP/1.1" 404 209
+127.0.0.1 - - [26/Feb/2017:18:29:43 +0800] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 230
+127.0.0.1 - - [26/Feb/2017:18:29:43 +0800] "GET /apple-touch-icon.png HTTP/1.1" 404 218
+127.0.0.1 - - [26/Feb/2017:18:29:43 +0800] "GET /favicon.ico HTTP/1.1" 404 209
